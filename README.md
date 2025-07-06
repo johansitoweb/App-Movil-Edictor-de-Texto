@@ -49,8 +49,8 @@ Sigue estos pasos para poner en marcha el editor en tu entorno local:
     Si tienes el código en un archivo, créate un nuevo proyecto de React Native:
 
     ```bash
-    npx create-expo-app mi-editor-de-texto
-    cd mi-editor-de-texto
+    npx create-expo-app App-Movil-Edictor-de-Texto
+    cd App-Movil-Edictor-de-Texto
     ```
 
     Luego, reemplaza el contenido de `App.js` con el código proporcionado.
